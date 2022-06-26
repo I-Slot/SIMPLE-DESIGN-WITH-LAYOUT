@@ -1,0 +1,162 @@
+*{
+    /* background-color: #808080; */
+    margin: 0%;
+    padding: 0%;
+    font-family: serif;
+}
+
+#nav{
+    /* background-color: #808080; */
+    margin: 20px;
+    padding: 10px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+
+#nav ul li {
+   display: inline;
+   margin: 9px;
+   color: orangered;
+   text-align: center;
+   /* background-color: aliceblue;
+   border-radius: 5px; */
+}
+
+
+.form{
+    margin: 10px;;
+    font-size: 105%;
+    padding: 10px;
+    float: right;
+    width: 260ox;
+    clear: right;margin: 60px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.main{
+    margin: 10px 320px 10px 10px;
+    border-radius: 5px;
+    font-size: 110%;
+    padding: 20px;
+    margin-top: 70px;
+}
+
+.form h3 {
+    background-color: white;
+    border-radius: 6px;
+    font-size: 20px;
+    text-align: center;
+    color: orangered;
+    margin-top: -1px ;
+    font-family: sans-serif;
+
+}
+
+.form button{
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+button {
+    background-color: orangered;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 10px 10px;
+    display: flex;
+    width: 80%;text-align: center;
+
+}
+
+.form p {
+    color: white;
+    text-align: center;
+}
+
+.form a {
+    color: orangered;
+   
+}
+
+.whole{
+    background-color: #808080;
+    margin: 0px auto;
+    width: 1000px;
+    padding: 20px;
+}
+
+input {
+    background-color: black;
+    border-bottom: 2px dotted orangered;
+    border-right: 0px;
+}
+
+
+.main p {
+    color: white;
+
+
+}
+.main h1 {
+    color: white;
+
+
+}
+.main h2 {
+    color: orangered;font-size: 40px;
+
+
+
+}
+
+.course{
+    font-size: 40PX;
+}
+.search {
+    width: 90px;
+    border-radius: 0;
+    display: inline;
+    border: 0;margin: 0;
+}
+
+#search{
+    background-color: white;
+    border-top:1px solid orangered ;
+    border-bottom:1px solid orangered ;
+    border-left: 1px solid orangered;
+   
+}
+
+
+.Islot{
+  /* margin-left: 30px; */
+  font-size: 30px;
+  text-shadow: 1px 2px 2px  white;
+
+
+}
+
+
+.downbtn{
+    width: 20%;
+    border: 0;
+    text-align: center;
+    height: 25px;
+    align-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+a:hover {
+    color: orangered;
+    background-color: white;
+}
+
+#navitem ul li a:hover {
+    color: white
+}
